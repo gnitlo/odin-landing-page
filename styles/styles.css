@@ -20,7 +20,7 @@ ul{
     list-style: none;
     color:#F9FAF8;
     display:flex;
-    gap: 12px;;
+    gap: 12px;
 }
 li{
     padding: 0 5px;
