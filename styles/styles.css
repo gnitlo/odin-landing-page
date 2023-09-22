@@ -51,6 +51,9 @@ li{
     width:40%;
     flex-direction: column;
 }
+.header-image > img{
+    padding-bottom: 5px;
+}
 h1{
     font-size: 48px;
     font-weight: 900;
